@@ -21,8 +21,8 @@ sizey=150
 sizez=50
 ndivx=20
 ndivy=5
-ndivz=3
-jumpx=0
+ndivz=5
+jumpx=5
 
 
 
